@@ -1,0 +1,12 @@
+E:\Lib\Demo\Template\Ginger\Ginger.Core\bin\Debug\net6.0\Ginger.Core.deps.json
+E:\Lib\Demo\Template\Ginger\Ginger.Core\bin\Debug\net6.0\Ginger.Core.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Core\bin\Debug\net6.0\Ginger.Core.pdb
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.csproj.AssemblyReference.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.AssemblyInfoInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.AssemblyInfo.cs
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.csproj.CoreCompileInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\refint\Ginger.Core.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\Ginger.Core.pdb
+E:\Lib\Demo\Template\Ginger\Ginger.Core\obj\Debug\net6.0\ref\Ginger.Core.dll

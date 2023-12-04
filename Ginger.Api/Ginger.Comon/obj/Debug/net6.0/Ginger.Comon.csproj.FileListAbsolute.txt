@@ -1,0 +1,11 @@
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\bin\Debug\net6.0\Ginger.Comon.deps.json
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\bin\Debug\net6.0\Ginger.Comon.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\bin\Debug\net6.0\Ginger.Comon.pdb
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.AssemblyInfoInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.AssemblyInfo.cs
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.csproj.CoreCompileInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\refint\Ginger.Comon.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\Ginger.Comon.pdb
+E:\Lib\Demo\Template\Ginger\Ginger.Comon\obj\Debug\net6.0\ref\Ginger.Comon.dll
