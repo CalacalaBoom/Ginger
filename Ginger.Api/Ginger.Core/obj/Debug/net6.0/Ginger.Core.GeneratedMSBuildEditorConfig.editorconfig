@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ginger.Core
-build_property.ProjectDir = E:\Lib\Demo\Ginger\Ginger.Api\Ginger.Core\
+build_property.ProjectDir = E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

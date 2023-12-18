@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FykuBz3PzVMzOcJ0ngbM2q+xB6+g/zcDg5JvUSRM9HyiYCo0bQB+PzKfEMKYAdyFaFXziW4lU8oDd3bX9plIMQ==",
+  "dgSpecHash": "Qzmr3E9dSscvFbUa5qFINfTKRh7wSx+9/hFnWS9AvlEtlzORzRWOWrflysty6xAdzyOWum84LCfgiXoyfSDNnA==",
   "success": true,
-  "projectFilePath": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
+  "projectFilePath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

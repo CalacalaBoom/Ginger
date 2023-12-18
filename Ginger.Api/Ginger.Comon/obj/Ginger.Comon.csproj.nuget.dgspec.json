@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj": {}
+    "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj": {}
   },
   "projects": {
-    "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj": {
+    "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
+        "projectUniqueName": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
         "projectName": "Ginger.Comon",
-        "projectPath": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
+        "projectPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
         "packagesPath": "C:\\Users\\HEYii\\.nuget\\packages\\",
-        "outputPath": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Comon\\obj\\",
+        "outputPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

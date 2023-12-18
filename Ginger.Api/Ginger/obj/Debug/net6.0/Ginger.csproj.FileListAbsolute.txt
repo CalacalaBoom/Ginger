@@ -101,3 +101,14 @@ E:\Lib\Demo\Template\Ginger\Ginger\bin\Debug\net6.0\Ginger.Core.dll
 E:\Lib\Demo\Template\Ginger\Ginger\bin\Debug\net6.0\Ginger.Comon.pdb
 E:\Lib\Demo\Template\Ginger\Ginger\bin\Debug\net6.0\Ginger.Core.pdb
 E:\Lib\Demo\Template\Ginger\Ginger\bin\Debug\net6.0\test.db
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.csproj.AssemblyReference.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.AssemblyInfoInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.AssemblyInfo.cs
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.csproj.CoreCompileInputs.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.MvcApplicationPartsAssemblyInfo.cs
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.MvcApplicationPartsAssemblyInfo.cache
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.sourcelink.json
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\refint\Ginger.dll
+E:\Lib\Demo\Template\Ginger\Ginger.Api\Ginger\obj\Debug\net6.0\Ginger.pdb

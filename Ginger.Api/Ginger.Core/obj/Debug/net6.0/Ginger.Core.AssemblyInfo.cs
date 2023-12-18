@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ginger.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4521295b84af886c6bc1a6d012414e23a2efca78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ginger.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ginger.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

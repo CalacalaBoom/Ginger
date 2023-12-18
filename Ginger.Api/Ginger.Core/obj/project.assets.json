@@ -3203,11 +3203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Core\\Ginger.Core.csproj",
+      "projectUniqueName": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Core\\Ginger.Core.csproj",
       "projectName": "Ginger.Core",
-      "projectPath": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Core\\Ginger.Core.csproj",
+      "projectPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Core\\Ginger.Core.csproj",
       "packagesPath": "C:\\Users\\HEYii\\.nuget\\packages\\",
-      "outputPath": "E:\\Lib\\Demo\\Ginger\\Ginger.Api\\Ginger.Core\\obj\\",
+      "outputPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -76,11 +76,16 @@ namespace $safeprojectname$
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
+            //if (app.Environment.IsDevelopment())
+            //{
                 app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+                app.UseSwaggerUI(c =>
+                {
+                    c.RoutePrefix = "";
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "V1 Docs");
+
+                });
+            //}
 
             app.UseAuthorization();
 
