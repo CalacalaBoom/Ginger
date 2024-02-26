@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\HEYii\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "D:\\IDE\\Installer\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
+      "projectUniqueName": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
       "projectName": "Ginger.Comon",
-      "projectPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
+      "projectPath": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Comon\\Ginger.Comon.csproj",
       "packagesPath": "C:\\Users\\HEYii\\.nuget\\packages\\",
-      "outputPath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger.Comon\\obj\\",
+      "outputPath": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Comon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\IDE\\Installer\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\HEYii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

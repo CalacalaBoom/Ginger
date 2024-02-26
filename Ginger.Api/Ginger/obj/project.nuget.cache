@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "orYwiblEm2lMDUlkNWeMPnx+sr2oO2F2p/Mb0Dq7j7xQXZmz2Kel8Dq2m4lD6qCfCJoyax0qHN2GO6HSGUmZpQ==",
+  "dgSpecHash": "XRcbwtryXmVStAmaUVT/N3F3KRC7fZM6jKSBM2hA0BY3X0c9HGWIf9/R4VIsFTqukd5AG0Km6e+Ls0QuEwzCEg==",
   "success": true,
-  "projectFilePath": "E:\\Lib\\Demo\\Template\\Ginger\\Ginger.Api\\Ginger\\Ginger.csproj",
+  "projectFilePath": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger\\Ginger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HEYii\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HEYii\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

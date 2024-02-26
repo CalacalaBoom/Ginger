@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ginger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4521295b84af886c6bc1a6d012414e23a2efca78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b328382cc50ec581f9a6ffa9eab01716d01b19a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ginger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ginger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

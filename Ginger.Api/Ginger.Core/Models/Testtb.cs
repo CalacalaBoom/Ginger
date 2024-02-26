@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using SqlSugar;
-namespace $safeprojectname$.Core.Models
+namespace $safeprojectname$.Models
 {
     /// <summary>
     /// 

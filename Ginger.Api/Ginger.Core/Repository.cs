@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace $safeprojectname$.Core
+namespace $safeprojectname$
 {
     public class Repository<T> : SimpleClient<T> where T : class, new()
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace $safeprojectname$.Comon
+namespace $safeprojectname$
 {
     public class RESTFulDto<T>
     {
