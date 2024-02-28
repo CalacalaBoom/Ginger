@@ -18,7 +18,7 @@
 
 [vs2019制作多项目工程模板](https://www.cnblogs.com/Jackie-sky/p/14137070.html)
 
-# 第一步 生成多项目模板
+## 第一步 生成多项目模板
 在项目菜单中选择导出模板
 
 ![生成多项目模板](https://img2020.cnblogs.com/blog/402798/202012/402798-20201215093706244-1415702468.png)
@@ -35,18 +35,18 @@
 
 
 
-# 第二步 解压缩
+## 第二步 解压缩
 
 以上步骤完成后，新建目录，将所有.zip文件解压到该目录中
 
 
 
-# 第三步 创建模板文件
+## 第三步 创建模板文件
 创建名为 MultiProjectTemplate.vstemplate 的模板文件，添加  **logo.ico**  对应第四步的  `<Icon>logo.ico</Icon>`
 
 ![生成多项目模板](https://raw.githubusercontent.com/CalacalaBoom/Ginger/master/docs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-02-28%20084143.png)
 
-# 第四步 修改模板信息
+## 第四步 修改模板信息
 模板格式，Name是模板的名称，LanguageTag和PlatformTag都是模板的标签，ProjectCollection中包含的是项目集合
 
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
@@ -77,7 +77,7 @@
 	</TemplateContent>
 </VSTemplate>
 
-# 第五步 导入模板
+## 第五步 导入模板
 模板编辑完成后将改目录打成.zip格式的压缩包，将 .zip 文件复制到用户项目模板目录中
 
 默认情况下，此目录为 %USERPROFILE%\Documents\Visual Studio <version>\Templates\ProjectTemplates。
