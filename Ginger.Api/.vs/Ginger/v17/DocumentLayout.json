@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8574BB93-0AB6-49C3-AA36-412E077076F6}|Ginger.Comon\\Ginger.Comon.csproj|e:\\lib\\mydll\\ginger\\ginger.api\\ginger.comon\\restfuldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8574BB93-0AB6-49C3-AA36-412E077076F6}|Ginger.Comon\\Ginger.Comon.csproj|solutionrelative:ginger.comon\\restfuldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564FFE9A-BB25-4683-998F-F6053A81FDFF}|Ginger.Core\\Ginger.Core.csproj|e:\\lib\\mydll\\ginger\\ginger.api\\ginger.core\\models\\testtb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564FFE9A-BB25-4683-998F-F6053A81FDFF}|Ginger.Core\\Ginger.Core.csproj|solutionrelative:ginger.core\\models\\testtb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564FFE9A-BB25-4683-998F-F6053A81FDFF}|Ginger.Core\\Ginger.Core.csproj|e:\\lib\\mydll\\ginger\\ginger.api\\ginger.core\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564FFE9A-BB25-4683-998F-F6053A81FDFF}|Ginger.Core\\Ginger.Core.csproj|solutionrelative:ginger.core\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E02F3DB8-9D5F-4547-9A2F-A7FE5F9B62B0}|Ginger\\Ginger.csproj|e:\\lib\\mydll\\ginger\\ginger.api\\ginger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02F3DB8-9D5F-4547-9A2F-A7FE5F9B62B0}|Ginger\\Ginger.csproj|solutionrelative:ginger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 135,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testtb.cs",
+              "DocumentMoniker": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Core\\Models\\Testtb.cs",
+              "RelativeDocumentMoniker": "Ginger.Core\\Models\\Testtb.cs",
+              "ToolTip": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Core\\Models\\Testtb.cs",
+              "RelativeToolTip": "Ginger.Core\\Models\\Testtb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:59:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Core\\Repository.cs",
+              "RelativeDocumentMoniker": "Ginger.Core\\Repository.cs",
+              "ToolTip": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Core\\Repository.cs",
+              "RelativeToolTip": "Ginger.Core\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:59:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RESTFulDto.cs",
+              "DocumentMoniker": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Comon\\RESTFulDto.cs",
+              "RelativeDocumentMoniker": "Ginger.Comon\\RESTFulDto.cs",
+              "ToolTip": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger.Comon\\RESTFulDto.cs",
+              "RelativeToolTip": "Ginger.Comon\\RESTFulDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:59:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger\\Program.cs",
+              "RelativeDocumentMoniker": "Ginger\\Program.cs",
+              "ToolTip": "E:\\Lib\\MyDLL\\Ginger\\Ginger.Api\\Ginger\\Program.cs",
+              "RelativeToolTip": "Ginger\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:59:01.895Z",
+              "EditorCaption": ""
             }
           ]
         }

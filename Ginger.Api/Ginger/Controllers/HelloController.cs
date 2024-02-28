@@ -1,10 +1,10 @@
-﻿using $safeprojectname$.Core.Models;
-using $safeprojectname$.Core;
+﻿using $ext_safeprojectname$.Core.Models;
+using $ext_safeprojectname$.Core;
 using Microsoft.AspNetCore.Mvc;
 using SqlSugar;
-using $safeprojectname$.Comon;
+using $ext_safeprojectname$.Comon;
 
-namespace $safeprojectname$.Controllers
+namespace $ext_safeprojectname$.Controllers
 {
     [ApiController]
     [Route("[controller]/[action]")]

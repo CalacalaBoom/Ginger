@@ -1,8 +1,8 @@
-using $safeprojectname$.Core;
+using $ext_safeprojectname$.Core;
 using Microsoft.OpenApi.Models;
 using SqlSugar;
 
-namespace $safeprojectname$
+namespace $ext_safeprojectname$
 {
     /// <summary>
     /// 作者:$username$
@@ -27,7 +27,7 @@ namespace $safeprojectname$
                 options.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1", 
-                    Title = "$projectname$ API文档",
+                    Title = "$ext_safeprojectname$ API文档",
                     Description = "by 张宇,tel:15250790091",
                     TermsOfService = new Uri("https://github.com/CalacalaBoom"),
                     Contact = new OpenApiContact

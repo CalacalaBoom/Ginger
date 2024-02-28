@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ginger.Comon\Ginger.Comon.csproj" />
-    <ProjectReference Include="..\Ginger.Core\Ginger.Core.csproj" />
+    <ProjectReference Include="..\$ext_safeprojectname$.Comon\$ext_safeprojectname$.Comon.csproj" />
+    <ProjectReference Include="..\$ext_safeprojectname$.Core\$ext_safeprojectname$.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
