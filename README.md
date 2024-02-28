@@ -3,6 +3,18 @@
 
 [vs2019制作多项目工程模板](https://www.cnblogs.com/Jackie-sky/p/14137070.html)
 
+# 直接导入
+[下载zip](https://github.com/CalacalaBoom/Ginger/releases/download/0.2.28/Ginger.zip),将 .zip 文件复制到用户项目模板目录中
+
+默认情况下，此目录为 %USERPROFILE%\Documents\Visual Studio <version>\Templates\ProjectTemplates。
+
+例如：C:\Users\Administrator\Documents\Visual Studio 2019\Templates\ProjectTemplates
+
+重新打开vs，新建项目时在模板列表中可以看到模板
+
+![生成多项目模板](https://raw.githubusercontent.com/CalacalaBoom/Ginger/master/docs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-02-28%20084816.png)
+
+
 # 第一步 生成多项目模板
 在项目菜单中选择导出模板
 
@@ -27,7 +39,7 @@
 
 
 # 第三步 创建模板文件
-创建名为 MultiProjectTemplate.vstemplate 的模板文件
+创建名为 MultiProjectTemplate.vstemplate 的模板文件，添加  **logo.ico**  对应第四步的  `<Icon>logo.ico</Icon>`
 
 ![生成多项目模板](https://raw.githubusercontent.com/CalacalaBoom/Ginger/master/docs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-02-28%20084143.png)
 
@@ -49,13 +61,13 @@
 	</TemplateData>
 	<TemplateContent>
 		<ProjectCollection>
-			<ProjectTemplateLink ProjectName="Ginger" CopyParameters="true">
+			<ProjectTemplateLink ProjectName="$safeprojectname$" CopyParameters="true">
 				Ginger\MyTemplate.vstemplate
 			</ProjectTemplateLink>
-			<ProjectTemplateLink ProjectName="Ginger.Comon" CopyParameters="true">
+			<ProjectTemplateLink ProjectName="$safeprojectname$.Comon" CopyParameters="true">
 				Ginger.Comon\MyTemplate.vstemplate
 			</ProjectTemplateLink>
-			<ProjectTemplateLink ProjectName="Ginger.Core" CopyParameters="true">
+			<ProjectTemplateLink ProjectName="$safeprojectname$.Core" CopyParameters="true">
 				Ginger.Core\MyTemplate.vstemplate
 			</ProjectTemplateLink>
 		</ProjectCollection>
