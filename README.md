@@ -1,7 +1,6 @@
 # Ginger
 .NET6 ASP.NET WebApi快速开发模板，目前集成sqlsugar、RESTFul
 
-[vs2019制作多项目工程模板](https://www.cnblogs.com/Jackie-sky/p/14137070.html)
 
 # 直接导入
 [下载zip](https://github.com/CalacalaBoom/Ginger/releases/download/0.2.28/Ginger.zip),将 .zip 文件复制到用户项目模板目录中
@@ -14,6 +13,10 @@
 
 ![生成多项目模板](https://raw.githubusercontent.com/CalacalaBoom/Ginger/master/docs/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-02-28%20084816.png)
 
+
+# 制作自定义模板
+
+[vs2019制作多项目工程模板](https://www.cnblogs.com/Jackie-sky/p/14137070.html)
 
 # 第一步 生成多项目模板
 在项目菜单中选择导出模板
