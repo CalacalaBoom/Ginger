@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ginger.Comon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+474f45d2487c5c54c96c186a8abbeccb18444e07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa13c119ad5e48266b65a84cd5ee8cf0f3a1837f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ginger.Comon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ginger.Comon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

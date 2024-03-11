@@ -28,7 +28,7 @@ namespace $ext_safeprojectname$
                 {
                     Version = "v1", 
                     Title = "$ext_safeprojectname$ API文档",
-                    Description = "by 张宇,tel:15250790091",
+                    Description = "by yvone",
                     TermsOfService = new Uri("https://github.com/CalacalaBoom"),
                     Contact = new OpenApiContact
                     {
@@ -41,6 +41,13 @@ namespace $ext_safeprojectname$
                         Url = new Uri("https://github.com/CalacalaBoom")
                     }
                 });
+
+                //添加注释
+                var file = Path.Combine(AppContext.BaseDirectory, "$ext_safeprojectname$.xml");  // xml文档绝对路径
+                var path = Path.Combine(AppContext.BaseDirectory, file); // xml文档绝对路径
+                options.IncludeXmlComments(path, true); // true : 显示控制器层注释
+                options.OrderActionsBy(o => o.RelativePath); // 对action的名称进行排序，如果有多个，就可以看见效果了。
+
             });
             //注入仓储
             builder.Services.AddScoped(typeof(Repository<>));
